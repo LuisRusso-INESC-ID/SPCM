@@ -187,7 +187,7 @@ RU1524/2-3). Jos{\'e} Rui Figueira also acknowledges the support from the
 [License]: #license
 [Acknowledgments]: #acknowledgments
 
-[paper]: https://arxiv.org/
+[paper]: https://arxiv.org/abs/2005.05051
 [Debian]: https://www.debian.org/
 [gcc]: https://gcc.gnu.org/
 [clang]: https://clang.llvm.org/
