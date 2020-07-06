@@ -46,18 +46,20 @@ components must exist in the system.
 The makefile provides several compilation options, for debugging, profiling
 etc.
 
-To obtain a simple testing binary simply invoque the makefile in the `src`
-directory.
+To obtain a testing binary invoque the makefile in the `src` directory.
 
 ```
 cd src
 make
 ```
 
-If all went well this should produce a binary named `./project`. This is a
-simple binary that uses simulated annealing to sparsify a parity check
-matrix. The input matrix should be given in [alist] format. The command
-`SYNOPSIS` is the following:
+If all went well this should produce a binary named `./project`.
+
+### Running
+
+The binary uses simulated annealing to sparsify a parity check matrix. The
+input matrix should be given in [alist] format. The command `SYNOPSIS` is
+the following:
 
 ```
 SYNOPSIS
