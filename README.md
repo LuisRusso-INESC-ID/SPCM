@@ -173,7 +173,7 @@ grant agreement No 690941, ([BIRDS]). This work was supported by DAAD-CRUP
 Luso-German bilateral cooperation under the 2017-2018 research project
 MONO-EMC (Multi-Objective Network Optimization for Engineering and
 Management Support). This work was supported by the DFG (project-ID:
-RU1524/2-3). Jos{\'e} Rui Figueira also acknowledges the support from the
+RU1524/2-3). José Rui Figueira also acknowledges the support from the
 [FCT] grant SFRH/BSAB/139892/2018 under POCH Program.
 
 * Thanks to [PurpleBooth] for the [README-Template].
